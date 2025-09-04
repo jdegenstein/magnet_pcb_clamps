@@ -17,7 +17,7 @@ All the files are made in the wonderful FreeCAD version 1,01 so you can easily a
 So for each clamp the complete BOM is; <br>
 <br>
 -1 x top clamp section <br>
--1 x flosting clamp section <br>
+-1 x floating clamp section <br>
 -1 x base section <br>
 -1 x M4 bolt/machine screw <br>
 -1 x compression spring <br>
