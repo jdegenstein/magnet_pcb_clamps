@@ -78,7 +78,7 @@ set_colormap(ColorMap.seeded(colormap="rgb", alpha=1, seed_value="vscod"))
 # fmt: off
 show_all(
     classes = [BuildPart, BuildSketch, BuildLine, ],  # comment to show all objects
-    include = ["base_step", "floating_clamp", "top_clamp"],
+    include = ["", ],
     exclude = ["", ],
     show_sketch_local = False,
     helper_scale = 1,  # controls size of e.g. planes and axes
